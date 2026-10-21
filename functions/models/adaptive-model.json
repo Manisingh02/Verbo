@@ -1,0 +1,9 @@
+{
+  "bias": -0.2,
+  "weights": {
+    "incorrect": 1.05,
+    "responseTimeMs": 0.000045,
+    "recentAccuracy": -1.3,
+    "incorrectRate": 1.1
+  }
+}
